@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">[nullptr.]</h1>
 
-<!--
-**4821802eeff35fe1/4821802eeff35fe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=C9D1D9&center=true&vCenter=true&width=520&lines=This+is+not+anonymity%2C+but+impersonality.;Python+%7C+TypeScript+%7C+C" alt="typing" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://nullptr.sbs"><img src="https://img.shields.io/badge/site-nullptr.sbs-black?style=flat-square" /></a>
+  <a href="https://t.me/nullptrowner"><img src="https://img.shields.io/badge/telegram-nullptrowner-black?style=flat-square&logo=telegram" /></a>
+  <a href="mailto:github@nullptr.sbs"><img src="https://img.shields.io/badge/mail-github@nullptr.sbs-black?style=flat-square&logo=gmail" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,c,linux,git" />
+</p>
+
+### Projects
+
+- **nullmusic**: <одна строка>
+- **nullcleaner**: <одна строка>
