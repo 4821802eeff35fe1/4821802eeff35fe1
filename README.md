@@ -18,5 +18,5 @@
 
 ### Projects
 
-- **nullmusic**: <одна строка>
-- **nullcleaner**: <одна строка>
+- **[nullcleaner](https://github.com/4821802eeff35fe1/nullcleaner)**: Telegram-бот, который показывает и удаляет метаданные из фото, видео, аудио, PDF и документов Office. Изоляция парсеров через seccomp, без хранения файлов. Python, FastAPI, PostgreSQL, Docker.
+- **[nullmusic](https://github.com/4821802eeff35fe1/nullmusic)**: async Telegram inline-бот для поиска музыки в SoundCloud и текстов из Genius. Python, Docker, Redis.
